@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-general-ledger-flutter",
+  "capabilityKey": "liberusoftware/module-accounting-general-ledger",
+  "presentation": "mobile-flutter",
+  "package": "module_accounting_general_ledger_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/accounting/nextjs/general-ledger.md",
+  "presentationPlan": "projects/accounting/flutter/general-ledger.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
